@@ -86,6 +86,8 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
+    //crear commit para main
+
     // Crear QR en un div oculto (800x800)
     const tempDiv = document.createElement("div");
     tempDiv.style.display = "none";
